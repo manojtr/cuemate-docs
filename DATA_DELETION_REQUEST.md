@@ -23,7 +23,7 @@ Under various privacy laws and regulations (including GDPR, CCPA, and others), y
 
 ### Option 2: Email Request
 
-Send an email to **support@cuemate.com** with the subject line "Data Deletion Request" and include:
+Send an email to **marstsyd@gmail.com** with the subject line "Data Deletion Request" and include:
 
 - Your full name
 - Email address associated with your account
@@ -164,7 +164,7 @@ Before requesting complete deletion, consider these alternatives:
 
 For questions about data deletion or to submit a request:
 
-- **Email:** support@cuemate.com
+- **Email:** marstsyd@gmail.com
 - **Subject:** Data Deletion Request
 - **Response Time:** Within 24 hours
 
@@ -192,7 +192,7 @@ We may update this data deletion policy from time to time. Changes will be poste
 
 ## Support
 
-If you need assistance with the deletion process or have questions about your data rights, please contact us at support@cuemate.com.
+If you need assistance with the deletion process or have questions about your data rights, please contact us at marstsyd@gmail.com.
 
 ---
 
