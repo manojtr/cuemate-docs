@@ -65,8 +65,7 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 If you have any questions about these Terms of Service, please contact us at:
 
-- **Email:** marstsyd@gmail.com
-- **Address:** [Your Business Address]
+- **Email:** support@cuemate.me
 
 ---
 
